@@ -10,6 +10,8 @@ public class Kubra {
         Kaydettik ama ekleme yapmamız lazım
         Yapalım ozaman
         Saat:16 04
+
+        hadi birdaha saat 16 11
          */
     }
 }
