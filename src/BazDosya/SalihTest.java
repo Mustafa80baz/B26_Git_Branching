@@ -12,6 +12,9 @@ public class SalihTest {
 
     Abisi motorla götürdü
     Saat 14 42
-
+,,Spordan nezaman geelcek
+Abisi olmayacak 
+iki saat sonra gelir
+saat :14 45
      */
 }
