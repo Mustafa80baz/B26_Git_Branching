@@ -8,5 +8,10 @@ public class SalihTest {
     Salih dersten geldi
     satt 14 00
 
+    Salih Spora gitti
+
+    Abisi motorla götürdü
+    Saat 14 42
+
      */
 }
