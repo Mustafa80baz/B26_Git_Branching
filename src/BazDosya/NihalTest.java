@@ -7,5 +7,9 @@ public class NihalTest {
     Niahl hasta olmuş 
     eve geldi ateşi var
     saat 13.30
+    İnteliji de görundu githubada yazdıklarım
+
+    tekrar buraya yazalım
+    Nihal uyuyor  saat 14 15
      */
 }
