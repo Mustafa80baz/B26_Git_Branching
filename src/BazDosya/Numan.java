@@ -8,6 +8,12 @@ public class Numan {
 
          Braz dha ekleme yapalım
          Saat :15 36
+
+         Yeter arkadas yaya
+
+         hala değiştitriyoruz
+
+         saat:16 15
          */
     }
 }
