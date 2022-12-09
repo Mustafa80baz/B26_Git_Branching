@@ -11,5 +11,8 @@ public class NihalTest {
 
     tekrar buraya yazalım
     Nihal uyuyor  saat 14 15
+
+    Bir daha ekleme yapın dediler
+    Annesi banyoyu yıkadı
      */
 }
